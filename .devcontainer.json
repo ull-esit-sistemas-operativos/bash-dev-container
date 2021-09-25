@@ -1,14 +1,14 @@
 {
-	"image": "mcr.microsoft.com/vscode/devcontainers/base:ubuntu-20.04",
+    "image": "mcr.microsoft.com/vscode/devcontainers/base:ubuntu-20.04",
 
-	"settings": {
-		"terminal.integrated.defaultProfile.linux": "bash"
-	},
-	
-	"extensions": [
-		"mads-hartmann.bash-ide-vscode",
-		"rogalmic.bash-debug"
-	],
+    "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+    },
+    
+    "extensions": [
+        "mads-hartmann.bash-ide-vscode",
+        "rogalmic.bash-debug"
+    ],
 
-	"remoteUser": "vscode"
+    "remoteUser": "vscode"
 }
