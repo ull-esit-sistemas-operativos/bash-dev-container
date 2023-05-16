@@ -15,6 +15,7 @@
         "vscode": {
             "extensions": [
                 "mads-hartmann.bash-ide-vscode",
+                "meronz.manpages",
                 "rogalmic.bash-debug"
             ]
         }
